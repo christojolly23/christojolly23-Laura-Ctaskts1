@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Pathway2Chapter2_Task2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Pathway2Chapter2_Task2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pathway2Chapter2_Task2-Debug-e8c6c7b60deb6a9e4e75.json",
+					"name" : "Pathway2Chapter2_Task2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/christo.jolly23/Computer Science/CLionProjects/Pathway2maybelesson1/Pathway2Chapter2 Task2/cmake-build-debug",
+		"source" : "C:/Users/christo.jolly23/Computer Science/CLionProjects/Pathway2maybelesson1/Pathway2Chapter2 Task2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
