@@ -1,0 +1,3 @@
+C:/Users/CRISTO/Desktop/christojolly23-Laura-Ctaskts1/cmake-build-debug/CMakeFiles/christojolly23_Laura_Ctaskts1.dir
+C:/Users/CRISTO/Desktop/christojolly23-Laura-Ctaskts1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/CRISTO/Desktop/christojolly23-Laura-Ctaskts1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
