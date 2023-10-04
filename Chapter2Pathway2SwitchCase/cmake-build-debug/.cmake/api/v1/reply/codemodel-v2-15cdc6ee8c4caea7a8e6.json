@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Chapter2Pathway2SwitchCase",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Chapter2Pathway2SwitchCase::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chapter2Pathway2SwitchCase-Debug-b1efaf2688cc57b3d3c2.json",
+					"name" : "Chapter2Pathway2SwitchCase",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/christo.jolly23/Computer Science/christojolly23-Laura-Ctaskts1/Chapter2Pathway2SwitchCase/cmake-build-debug",
+		"source" : "C:/Users/christo.jolly23/Computer Science/christojolly23-Laura-Ctaskts1/Chapter2Pathway2SwitchCase"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

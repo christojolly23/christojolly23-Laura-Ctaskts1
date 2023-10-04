@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: Ticket_Program
+# Project: Uk_size_converter_hw
 # Configurations: Debug
 # =============================================================================
 
@@ -39,60 +39,60 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/christo.jolly23/Computer$ Science/christojolly23-Laura-Ctaskts1/Ticket$ Program/cmake-build-debug/
-# =============================================================================
-# Object build statements for EXECUTABLE target Ticket_Program
-
-
-#############################################
-# Order-only phony target for Ticket_Program
-
-build cmake_object_order_depends_target_Ticket_Program: phony || CMakeFiles/Ticket_Program.dir
-
-build CMakeFiles/Ticket_Program.dir/main.c.obj: C_COMPILER__Ticket_Program_Debug C$:/Users/christo.jolly23/Computer$ Science/christojolly23-Laura-Ctaskts1/Ticket$ Program/main.c || cmake_object_order_depends_target_Ticket_Program
-  DEP_FILE = CMakeFiles\Ticket_Program.dir\main.c.obj.d
-  FLAGS = -g -std=gnu99
-  OBJECT_DIR = CMakeFiles\Ticket_Program.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ticket_Program.dir
-  TARGET_COMPILE_PDB = CMakeFiles\Ticket_Program.dir\
-  TARGET_PDB = Ticket_Program.pdb
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Ticket_Program
-
-
-#############################################
-# Link the executable Ticket_Program.exe
-
-build Ticket_Program.exe: C_EXECUTABLE_LINKER__Ticket_Program_Debug CMakeFiles/Ticket_Program.dir/main.c.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Ticket_Program.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Ticket_Program.dir\
-  TARGET_FILE = Ticket_Program.exe
-  TARGET_IMPLIB = libTicket_Program.dll.a
-  TARGET_PDB = Ticket_Program.pdb
-
+cmake_ninja_workdir = C$:/Users/christo.jolly23/Computer$ Science/christojolly23-Laura-Ctaskts1/Uk_size_converter_hw/cmake-build-debug/
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\christo.jolly23\Computer Science\christojolly23-Laura-Ctaskts1\Ticket Program\cmake-build-debug" && "C:\Program Files (x86)\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D "C:\Users\christo.jolly23\Computer Science\christojolly23-Laura-Ctaskts1\Uk_size_converter_hw\cmake-build-debug" && "C:\Program Files (x86)\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
 build edit_cache: phony CMakeFiles/edit_cache.util
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Uk_size_converter_hw
+
+
+#############################################
+# Order-only phony target for Uk_size_converter_hw
+
+build cmake_object_order_depends_target_Uk_size_converter_hw: phony || CMakeFiles/Uk_size_converter_hw.dir
+
+build CMakeFiles/Uk_size_converter_hw.dir/main.c.obj: C_COMPILER__Uk_size_converter_hw_Debug C$:/Users/christo.jolly23/Computer$ Science/christojolly23-Laura-Ctaskts1/Uk_size_converter_hw/main.c || cmake_object_order_depends_target_Uk_size_converter_hw
+  DEP_FILE = CMakeFiles\Uk_size_converter_hw.dir\main.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\Uk_size_converter_hw.dir
+  OBJECT_FILE_DIR = CMakeFiles\Uk_size_converter_hw.dir
+  TARGET_COMPILE_PDB = CMakeFiles\Uk_size_converter_hw.dir\
+  TARGET_PDB = Uk_size_converter_hw.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Uk_size_converter_hw
+
+
+#############################################
+# Link the executable Uk_size_converter_hw.exe
+
+build Uk_size_converter_hw.exe: C_EXECUTABLE_LINKER__Uk_size_converter_hw_Debug CMakeFiles/Uk_size_converter_hw.dir/main.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Uk_size_converter_hw.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\Uk_size_converter_hw.dir\
+  TARGET_FILE = Uk_size_converter_hw.exe
+  TARGET_IMPLIB = libUk_size_converter_hw.dll.a
+  TARGET_PDB = Uk_size_converter_hw.pdb
 
 
 #############################################
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\christo.jolly23\Computer Science\christojolly23-Laura-Ctaskts1\Ticket Program\cmake-build-debug" && "C:\Program Files (x86)\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"C:\Users\christo.jolly23\Computer Science\christojolly23-Laura-Ctaskts1\Ticket Program" -B"C:\Users\christo.jolly23\Computer Science\christojolly23-Laura-Ctaskts1\Ticket Program\cmake-build-debug""
+  COMMAND = cmd.exe /C "cd /D "C:\Users\christo.jolly23\Computer Science\christojolly23-Laura-Ctaskts1\Uk_size_converter_hw\cmake-build-debug" && "C:\Program Files (x86)\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"C:\Users\christo.jolly23\Computer Science\christojolly23-Laura-Ctaskts1\Uk_size_converter_hw" -B"C:\Users\christo.jolly23\Computer Science\christojolly23-Laura-Ctaskts1\Uk_size_converter_hw\cmake-build-debug""
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -102,7 +102,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Ticket_Program: phony Ticket_Program.exe
+build Uk_size_converter_hw: phony Uk_size_converter_hw.exe
 
 # =============================================================================
 # Folder targets.
@@ -110,9 +110,9 @@ build Ticket_Program: phony Ticket_Program.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/christo.jolly23/Computer Science/christojolly23-Laura-Ctaskts1/Ticket Program/cmake-build-debug
+# Folder: C:/Users/christo.jolly23/Computer Science/christojolly23-Laura-Ctaskts1/Uk_size_converter_hw/cmake-build-debug
 
-build all: phony Ticket_Program.exe
+build all: phony Uk_size_converter_hw.exe
 
 # =============================================================================
 # Built-in targets
